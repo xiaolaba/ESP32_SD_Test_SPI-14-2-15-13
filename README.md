@@ -51,3 +51,11 @@ output done,
 
 ![SD_card_module_not_support_SD_MMC_mode.jpg](SD_card_module_not_support_SD_MMC_mode.jpg)  
 ![SD_uSD_ESP32_SD_MMC_mapping.jpg](SD_uSD_ESP32_SD_MMC_mapping.jpg)
+![SD_SPI_module.jpg](SD_SPI_module.jpg)
+![NODEMCU_ESP32-S.JPG](NODEMCU_ESP32-S.JPG)
+![SD_CARD_ESP32_pin_SD_MMC_connection.JPG](SD_CARD_ESP32_pin_SD_MMC_connection.JPG)
+![MUP_M015-4_1.jpg](MUP_M015-4_1.jpg)
+![MUP_M015-4_2.jpg](MUP_M015-4_2.jpg)
+![MUP_M015-4_3.jpg](MUP_M015-4_3.jpg)
+
+
