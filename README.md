@@ -46,3 +46,8 @@ void setup(){
 
 output done,  
 ![SD_Test_SPI_14_2_15_13_done.JPG](SD_Test_SPI_14_2_15_13_done.JPG)  
+
+
+
+![SD_card_module_not_support_SD_MMC_mode.jpg](SD_card_module_not_support_SD_MMC_mode.jpg)  
+![SD_uSD_ESP32_SD_MMC_mapping.jpg](SD_uSD_ESP32_SD_MMC_mapping.jpg)
