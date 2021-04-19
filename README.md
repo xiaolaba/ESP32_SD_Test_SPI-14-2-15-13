@@ -1,6 +1,11 @@
 # ESP32_SD_Test_SPI-14-2-15-13  
 SD card reader with SPI mode, SCK, MI, MO, CS, GPIO used as 14, 2, 15, 13  
 
+### project file  
+[ESP32-S_nodemcu_connection.xlsx](ESP32-S_nodemcu_connection.xlsx)  
+
+
+
 the physical connection,
 ```
 /*
